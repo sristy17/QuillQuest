@@ -1,0 +1,38 @@
+<% layout("/layouts/boilerplate") %>
+  
+   
+
+    <div class="row">
+      <div class="col-8 offset-2">
+   <br>
+        <h3>Create a New Blog</h3>
+
+        <form method="POST" action="/home">
+
+      <div>
+        <lable for="title" class="form-lable ">Title</lable >
+        <input name="listing[title]" type="text" class="form-control"/>
+      </div>
+      
+      <br />
+      
+      <div>
+        <lable for="description" class="form-lable ">Description</lable >
+        <textarea name="listing[description]"  class="form-control"></textarea>
+      </div>
+
+      <br />
+
+      <div>
+        <lable for="image" class="form-lable ">Enter Image link</lable >
+        <input name="listing[image]" type="text" class="form-control"/>
+      </div>
+      
+      <br />
+      
+      <button class="btn btn-dark">Add</button>
+      <br><br>
+
+    </form>
+  </div>
+  </div>
