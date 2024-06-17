@@ -1,5 +1,4 @@
-# QuillQuest: Blogging Website
-
+# QuillQuest
 
 ## Table of Contents
 
