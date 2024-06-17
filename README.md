@@ -81,4 +81,4 @@ QuillQuest/
 
 This project is licensed under the MIT License.
 
-
+<h4 align='center'>Developed By <b><i>Sristy Paul</i></h4>
