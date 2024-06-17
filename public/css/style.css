@@ -31,6 +31,10 @@
     height: 100px;
     text-align: center;
     padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .f-head{
@@ -116,3 +120,4 @@
     font: 1.5em sans-serif;
     color: #176B87;
 }
+
